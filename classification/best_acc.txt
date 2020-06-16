@@ -1,0 +1,1 @@
+EPOCH=3,best_acc= 100.000%

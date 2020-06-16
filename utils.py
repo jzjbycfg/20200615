@@ -15,6 +15,18 @@ import torch.nn.functional as F
 import pickle
 
 
+def load_model(path):
+    pass
+
+
+def load_data(path):
+    pass
+
+
+def wrap(tags):
+    pass
+
+
 # save_obj(loss_dict, r'C:\Users\Administrator\Desktop\2020spring\MedicalImageAnalysis\models\c2loss_dict')
 def save_obj(obj, name):  # 保存dict
     with open(name + '.pkl', 'wb') as f:
